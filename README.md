@@ -61,7 +61,7 @@
 
 <h2 align="left">🌐 Connect with Me</h2>
 <p align="left">
-  <a href="www.linkedin.com/in/mixo-shibambo" target="_blank">
+  <a href="[www.linkedin.com/in/mixo-shibambo](https://www.linkedin.com/in/mixo-shibambo/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
